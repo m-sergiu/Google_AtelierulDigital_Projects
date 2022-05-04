@@ -1,4 +1,4 @@
-# java-training
+# Design pattern project are in # 3 design pattern - 
 
 # 1 basics
 	- code study
